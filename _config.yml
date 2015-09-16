@@ -14,10 +14,15 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  brandColors:
+    - '#f4f4f4'
+    - '#1e0000'
+    - '#ee0000'
+    - '#f15a25'
+    - '#836868'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 1
   rhythmicContrast: 0.5
 purpose:
   - name: engagement
