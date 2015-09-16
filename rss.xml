@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[smartwarrior]]></title>
         <description><![CDATA[smartwarrior]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/smartwarrior/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Sep 2015 17:47:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Sep 2015 17:47:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/smartwarrior/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6068c0e5-5ccd-458e-9408-f56a6badca41.JPG">]]></description>
+            <link>https://thegrid.ai/smartwarrior/d2098b56-b073-4ed7-9171-fa938098954a/index.html</link>
+            <guid isPermaLink="false">d2098b56-b073-4ed7-9171-fa938098954a</guid>
+            <pubDate>Wed, 16 Sep 2015 17:47:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fb7807c-f277-4fcd-8d6a-6a137b15364d.JPG">]]></description>
-            <link>undefineda8490045-2309-4069-ac60-891561ad66e5/index.html</link>
+            <link>https://thegrid.ai/smartwarrior/a8490045-2309-4069-ac60-891561ad66e5/index.html</link>
             <guid isPermaLink="false">a8490045-2309-4069-ac60-891561ad66e5</guid>
             <pubDate>Wed, 16 Sep 2015 17:46:58 GMT</pubDate>
         </item>
